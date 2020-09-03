@@ -12,4 +12,4 @@ The aim of this project was to build a linear regression model using the data fr
 As a final project for a course I had to develop an app, that displayed data from the John Hopkins University about the Covid 19 pandemic across every country. If you wish to run this app, there is a zip file containing the data (correct at time of development) and a mlapp file that will run on MATLAB. If you do not have a MATLAB file there is also a standalone version. However this file is much larger and hence cannot be uploaded into this portfolio, but is available upon request.
 
 # Change Identification
-The livescript demonstrates the code implemented to identify US change (quarters, nickels and dimes) from a photo, and then find the combined value. 
+The livescript demonstrates the code implemented to identify US change (quarters, nickels and dimes) from a photo, and then find the combined value. A PDF version is also included that shows all the outputs. 
